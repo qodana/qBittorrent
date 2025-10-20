@@ -1,0 +1,1 @@
+bootstrap: sudo apt-get update; sudo apt-get install -y libtorrent-rasterbar-dev; sudo apt-get install -y libboost-all-dev; sudo apt-get install -y qt6-base-dev; sudo apt-get install -y qt6-tools-dev-tools;
